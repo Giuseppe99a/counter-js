@@ -5,7 +5,7 @@
     color: green;
 }
 .logo{
-    color: green;
+    color:pink;
     font-size: 30px;
     font-weight: 600;
     cursor: pointer;
@@ -28,4 +28,8 @@ button {
 #number {
   font-size: 40px;
   padding: 0 50px;
+}
+
+body {
+  background-color: #4CAF50;
 }
