@@ -3,7 +3,8 @@ const buttonPlus = document.getElementById('Counter');
 const buttonMinus = document.getElementById('Counter');
 
 buttonPlus.addEventListener('click', add);
-buttonMinus.addEventListener('click', subtract);}
+buttonMinus.addEventListener('click', subtract);
+buttonReset.addEventListener('click',reset);}
 
 {let value = 0;}
 
