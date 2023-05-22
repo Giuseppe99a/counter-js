@@ -6,7 +6,7 @@ buttonPlus.addEventListener('click', add);
 buttonMinus.addEventListener('click', subtract);
 buttonReset.addEventListener('click',reset);}
 
-{let value = 0;}
+{let value = 0;} 
 
 function add() {
   const elem = document.getElementById("Counter");
